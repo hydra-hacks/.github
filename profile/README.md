@@ -1,4 +1,5 @@
-## Hi there 👋
+### Welcome to Hydra Hacks! 👋
+Coming soon.
 
 <!--
 
