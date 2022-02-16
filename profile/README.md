@@ -4,7 +4,8 @@ Hydra Hacks is a high school hackathon for gender marginalized students. Our pla
 
 ### Supported by
 
-![Powered by Vercel](https://user-images.githubusercontent.com/72365100/154328564-eebc863f-eab6-4173-a43d-06ad0bc83c28.png#gh-light-mode-only)
-![Powered by Vercel](https://user-images.githubusercontent.com/72365100/154328580-bb937133-411a-4a36-8839-561c22246091.png#gh-dark-mode-only)
+[![Powered by Vercel](https://user-images.githubusercontent.com/72365100/154328564-eebc863f-eab6-4173-a43d-06ad0bc83c28.png#gh-light-mode-only)](https://vercel.com/?utm_source=[team-name]&utm_campaign=oss)
+
+[![Powered by Vercel](https://user-images.githubusercontent.com/72365100/154328580-bb937133-411a-4a36-8839-561c22246091.png#gh-dark-mode-only)](https://vercel.com/?utm_source=[team-name]&utm_campaign=oss)
 
 Interested in sponsoring us? We'd love to chat hello@hydrahacks.org &rarr;
